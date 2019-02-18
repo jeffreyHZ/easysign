@@ -7,3 +7,4 @@ easysign 基于bouncycastle密码库版本1.60的（BC库在1.59及之后的版�
 如果觉得对你有帮助，欢迎自愿赞助 
 
 微信扫码
+<img src="https://github.com/luoyanwu/easysign/blob/master/weichatpay.png"></img>
